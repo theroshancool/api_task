@@ -1,0 +1,7 @@
+asgiref==3.8.1
+Django==5.1.4
+sqlparse==0.5.3
+tzdata==2024.2
+
+requests~=2.32.3
+adb_shell~=0.4.4
